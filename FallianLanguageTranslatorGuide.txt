@@ -1,0 +1,4 @@
+"w" represents the start of a new letter.
+Every lowercase "o" represents the place in the English Alphabet (Ex: 1 "o" = a).
+Capitalizing the "w" at the start of the letter makes it capitalized.
+Using an uppercase "o" represents +10 letters of the English alphabet (Ex: "wO" = the letter "j")
